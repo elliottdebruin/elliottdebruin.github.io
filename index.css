@@ -4,9 +4,7 @@ section{width: 100%; height: 800px; float: left;}
 
 /*navigation*/
 
-.nav-item {
-	display: inline;
-}
+
 
 /*sections*/
 
@@ -23,5 +21,5 @@ section{width: 100%; height: 800px; float: left;}
 }
 
 #contact-section {
-	background: #1CF5E8;
+	background: #80F5EE;
 }
