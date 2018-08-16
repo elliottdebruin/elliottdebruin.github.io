@@ -1,3 +1,15 @@
 *{margin: 0; padding: 0; font-family: arial;}
 
 section{width: 100%; height: 800px; float: left;}
+
+#about-section {
+	background: #1CF5E8;
+}
+
+#projects-section {
+	background: #80F5EE;
+}
+
+#contact-section {
+	background: #1CF5E8;
+}
