@@ -2,6 +2,12 @@
 
 section{width: 100%; height: 800px; float: left;}
 
+/*navigation*/
+
+.nav-item {
+	display: inline;
+}
+
 /*sections*/
 
 #about-section {
