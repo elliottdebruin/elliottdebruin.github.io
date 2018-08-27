@@ -1,7 +1,13 @@
 *{margin: 0; padding: 0; font-family: arial;}
 
 
-section{width: 100%; height: 100vh; float: left; padding-top: 70px;}
+section {
+	width: 100%;
+	height: 100vh; 
+	float: left; 
+	padding-top: 70px;
+	color: #66FCF1;
+}
 
 /*navigation*/
 nav li {
@@ -11,9 +17,22 @@ nav li {
 
 
 /*sections*/
+#debruin-section {
+	background:url("windamer.jpeg");
+    background-size: cover;  
+    color: #0b0c10;
+    font-size: 30px;
+    text-align: center;
+}
+
+#debruin-text {
+	font-size: 100px;
+	margin-top: 220px;
+	font-family: "Helvetica Neue Thin", Helvetica, sans-serif;
+}
 
 #about-section {
-	background: #1CF5E8;
+	background: #1F2833;
 }
 
 #about-pic {
@@ -22,12 +41,13 @@ nav li {
 
 #about-text {
 	text-align: left;
+	color: #66FCF1;
 }
 
 #projects-section {
-	background: #80F5EE;
+	background: #2e3c4c;
 }
 
 #contact-section {
-	background: #80F5EE;
+	background: #1F2833;
 }
